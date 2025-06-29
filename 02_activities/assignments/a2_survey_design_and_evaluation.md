@@ -11,7 +11,6 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 1.	In two to three sentences, describe the purpose of your survey
 2.	Describe your target population, sampling frame, sampling units, and overall sampling strategy.
 3.	Write a 5-10 question survey to address your chosen scenario below.
-
 ##### Scenarios
 1.	You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
 2.	You work for a Canadian national political party during a federal election. Throughout the campaign period, your party has seen relatively high approval ratings, but an opposing party is also polling favorably and may still have a chance to win the election. You are one month away from the election and you want to understand what voters want from your party and its leader in order to maintain your lead and eventually win the election.
@@ -40,30 +39,33 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of the survey is to identify the reasons of high turnover rates with entry-level positions in a large tech company.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+Target population: All employees. 
+Sampling frame: A random sample of employees from the target poulation is contacted with survey requests. A slected portion agrees to be respondents.
+Sampling units: An employee
+obervational units: An entry-level employee
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your employee designation/role?
+2. What is your age?
+3. What is your gender?
+4. What is your income level?
+5. For how many years you are employed in this company?
+6. How many promotions or wage-increases after joining?
+7. Are you satisfied with your current wage?
+8. What benefits do you receive?
+9. Are you currently looking for a new job?
+10. What will make you stay with the company? (wage increase, more benefits, better management, better work-life balance)
 ```
 
 ## Part B - Survey Evaluation:
@@ -72,6 +74,26 @@ Identify and describe survey features:
 
 ```
 write your answer here
+1. Sample type: Cell phone only households. simple random sampling within strata (geographic areas). 
+2. Sample size: Target population: 20,000. Actual respondents 16149. 
+3. Target population: Persons aged 15 years and over living in private households in Canada, excluding residents of the Yukon, Northwest Territories and Nunavut and full time residents of institutions
+4. Sampling frame: one portion of the households are selected and a letter was mailed requesting to complete an electronic questionnaire. the other portion of the households were contacted by telephone and the survey was completed by an interviewer. So, the samplling frame is all households with a mail address or telephone address who were willing to take part in either the online or telephone interview.
+5. Survey mode(s): One portion was requested to fill up an online questionnaire while the other portion was contacted through phone. 
+6. Timeline: September 4th to December 28th, 2018
+7. Response rate: 41.9%
+8. Weights: Household non-response: 49.9%
+            Non-response:            8.2%
+            Responses kept:          34%
+            Rejected responses:      7.8%
+            Total:                   100%
+9. Data processing: Data capture: respondents and interviewers used an online electronic capture system to enter data into a form that was suitable for tabulation and data analysis
+Coding: write-in responses were coded into existing categories, grouped into new ones or classified as other-specify
+10. Cleaning, imputation, etc: Edits & Imputation: potential duplicate records are eliminated. Out-of-scope respondents were eliminated. Imputation on records with missing information. 
+Creation of new variables: New variables were created by combining exixting variables. 
+Additional processing. Additional processing such as rounding, 
+11. Sources of error: sampling error, 68% of the samples, the difference between sample estimate and true population is 1 standard error, 95% is within 2 standard error difference. Non-sampling error such as interviewer errors, repondent errors, data processing mistakes etc.
+12. Limitations, known biases, etc: Efect of  non-responders
+13. Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/pub/45-25-0001/cat5/c33_2018.zip, https://www150.statcan.gc.ca/n1/en/catalogue/89M0026X
 ```
 
 ## Rubric
